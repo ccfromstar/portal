@@ -77,8 +77,12 @@ figure img{
 		text-shadow: #ccc 5px 5px 5px;
 	}
 
-.mobile img{
+.img_pc{
 	width:100% !important;
+}
+
+.img_mobile{
+	width:45% !important;
 }
 
 .model1{
